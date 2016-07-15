@@ -15,7 +15,7 @@ Ongoing project (Master's Thesis)
 Previous Project
 ----------------
 
-+ [Human Activity Recognition using Smartphones](activity_recog.pdf)
++ [Human Activity Recognition using Smartphones](danwangkoala.github.io/activity_recog.pdf)
 	+ Implemented three classifiers for activities recognition: K-nearest neighbours (KNN), Support Vector machine (SVM), and Hidden Markov Models (HMM). 
 	+ Trained and tested the classifiers on the [UCI HAI dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and obtained very good performance. 
 <p align="center">
