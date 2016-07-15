@@ -19,7 +19,7 @@ Previous Project
 	+ Implemented three classifiers for activities recognition: K-nearest neighbours (KNN), Support Vector machine (SVM), and Hidden Markov Models (HMM). 
 	+ Trained and tested the classifiers on the [UCI HAI dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and obtained very good performance. 
 <p align="center">
-  <img src="../images/activity_recog.png" width="550"/>
+  <img src="../images/activity_recog.png" width="450"/>
 </p>
 
 
