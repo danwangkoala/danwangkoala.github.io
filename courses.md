@@ -5,26 +5,26 @@ permalink: /courses/
 ---
 # 2016 Spring Term 
 
-+ [Time Series Analysis  (STAT 929)](http://www.ucalendar.uwaterloo.ca/SA/GRAD/0910/GRDcourse-STAT.html)
 
 + [Algorithms (CS 341)](https://www.student.cs.uwaterloo.ca/~cs341/)
 
-+ [Instructional Appentice for Data Types and Structures CS234](https://www.student.cs.uwaterloo.ca/~cs234/personnel.shtml)
+
 
 # 2016 Winter Term 
 
 + [Machine Learning (CS 685)](https://cs.uwaterloo.ca/~ppoupart/teaching/cs485-winter16/)
 
-+ [Introduction to Artificial Intelligence (CS 686)](https://cs.uwaterloo.ca/~klarson/teaching/W16-486/)
++ [Data Structures and Standards in Health Informatics (CS 792)](http://cel.uwaterloo.ca/courses/?sub=CS&cat=792)
 
-+ [Teaching Assistant for Data Structures and Data Management CS240](https://www.student.cs.uwaterloo.ca/~cs240/w16/)
++ [Advanced Topics in Artificial Intelligence, Affective Computing (CS 886) ](https://cs.uwaterloo.ca/~jhoey/teaching/cs886-affect/index.html)
 
 # 2015 Fall Term
 
-+ [Operating Systems (CS 350)](https://www.student.cs.uwaterloo.ca/~cs350/F15/courseoutline.html)
++ [Introduction to Artificial Intelligence (CS 686)](https://cs.uwaterloo.ca/~jhoey/teaching/cs486/index.html)
++ [Advanced Topics in Human-Computer Interaction, Human-in-the-loop Systems (CS 889)](http://edithlaw.ca/cs889/2014/index.html)
 
-+ [Deep Learning  (STAT 946)](https://uwaterloo.ca/data-science/deep-learning) 
 
-+ [Automatic Memory Management and Garbage Collection (CS 842)](http://the.gregor.institute/t/5n/842/)
-
-+ [Teaching Assistant for Data Types and Structures CS 234](https://www.student.cs.uwaterloo.ca/~cs234/lectures.shtml)
+# Teaching Assistant
++ [CS 330, Management Information Systems, Spring 2016, ](https://www.student.cs.uwaterloo.ca/~cs330/)
++ [CS 136, Elementary Algorithm Design and Data Abstraction, Winter 2016, ](https://www.student.cs.uwaterloo.ca/~cs136/)
++ [CS 137, Programming Principles, CS 137, Fall 2015,](https://www.student.cs.uwaterloo.ca/~cs137/)

@@ -4,9 +4,27 @@ title: Projects
 permalink: /projects/
 ---
 
-Most of my projects have been in the area of Machine Learning and Aritficial Intelligence.
+Most of my projects have been in the area of  Artificial Intelligence and Human Computer Interaction. 
 
-+ [Tuning the parameters of Convolutional Neural Net using Genetic Algorithm for Image Classification](http://deerishi.github.io/genetic-algorithm-for-cnn/)
+Ongoing project (Master's Thesis)
+----------------
++ [Do-It-Yourself (D.I.Y.) Smart Home](https://cs.uwaterloo.ca/~jhoey/research/diysmarthome/index.php)
+	+ Develop care-giver user interface for customized domain knowledge building. 
+	+ Considering uncertainty, propose hierarchical activities tracking algorithm using Hidden Markov Models (HMM) and Bayesian Networks (BN).  
+
+Previous Project
+----------------
+
++ [Human Activity Recognition using Smartphones](http://deerishi.github.io/genetic-algorithm-for-cnn/)
+	+ Implemented three classifiers for activities recognition: K-nearest neighbours (KNN), Support Vector machine (SVM), and Hidden Markov Models (HMM). 
+	+ Trained and tested the classifiers on the [UCI HAI dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and obtained very good performance. 
+<p align="center">
+  <img src="../images/activity_recog.png" width="550"/>
+</p>
+
+
+
+
 
 + [Graph Based Semi Supervised Learning for Document Classification](http://deerishi.github.io/graph-based-semi-supervised-learning/)
 
