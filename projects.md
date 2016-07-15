@@ -15,16 +15,20 @@ Ongoing project (Master's Thesis)
 Previous Project
 ----------------
 
-+ [Human Activity Recognition using Smartphones](activity_recog.pdf)
++ [Human Activity Recognition using Smartphones (January 2016 to April 2016)](activity_recog.pdf)
 	+ Implemented three classifiers for activities recognition: K-nearest neighbours (KNN), Support Vector machine (SVM), and Hidden Markov Models (HMM). 
 	+ Trained and tested the classifiers on the [UCI HAI dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and obtained very good performance. 
+	+ **Skills**: MATLAB, machine learning
 <p align="center">
   <img src="../images/activity_recog.png" width="450"/>
 </p>
 
-+ [Graph Based Semi Supervised Learning for Document Classification](http://deerishi.github.io/graph-based-semi-supervised-learning/)
++ [BBM Protected and PetalMD Integration for Physician Schedule Status Exchange (January 2016 to April 2016)](https://github.com/danwangkoala/BBM-protected-and-PetalMD-Integration)
+	+ Realize physician schedule status secure exchange between the BBM protected and the PetalMD with the help of Mirth Connect integration engine.
+	+ Develop a simulated PetalMD with basic server and client function; Provide API for the Mirth Connect for information exchange; channel design in Mirth Connect for PetalMD and Mirth Communication. 
+	+ **Skills**: Full-stack web development, AngularJS, JavaScript, Mirth Connect
 
-+ [Policy Search in a Markov Decision Process](http://deerishi.github.io/Policy-Search-in-a-Markov-Decision-Process/)
++ [Gesture Recognition for Adding Sound Effects](http://deerishi.github.io/Policy-Search-in-a-Markov-Decision-Process/)
 
 + [Decision Tree in Python for Continuous Attributes](http://deerishi.github.io/Decision-Tree-in-Python-for-Continuous-Attributes/)
 
