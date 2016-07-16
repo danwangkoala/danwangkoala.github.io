@@ -12,6 +12,8 @@ Ongoing project (Master's Thesis)
 	+ Develop care-giver user interface for customized domain knowledge building. 
 	+ Considering uncertainty, propose hierarchical activities tracking algorithm using Hidden Markov Models (HMM) and Bayesian Networks (BN).  
 
++ [Do-It-Yourself (D.I.Y.) Smart Home](https://cs.uwaterloo.ca/~jhoey/research/diysmarthome/index.php)
+
 Previous Project
 ----------------
 
@@ -29,46 +31,26 @@ Previous Project
 	+ Develop a simulated PetalMD with basic server and client function; Provide API for the Mirth Connect for information exchange; channel design in Mirth Connect for PetalMD and Mirth Communication. 
 	+ **Skills**: Full-stack web development, AngularJS, JavaScript, Mirth Connect
 
-+ [Gesture Recognition for Adding Sound Effects](http://deerishi.github.io/Policy-Search-in-a-Markov-Decision-Process/)
++ [Gesture Recognition for Adding Sound Effects (September to December 2015)](https://danwangkoala.github.io/Gesture_recog.pdf)
+	+ Generate real-time sound effects for on-going gestures did in front of a Kinect.
+	+ Implement gesture recognition algorithm (DTW based KNN); design a sound effect triggering strategy considering the gesture duration. 
+	+ **Skills**: Machine learning, Dynamic programming, Kinect for Windows (SDK) 1.0
 
-+ [Decision Tree in Python for Continuous Attributes](http://deerishi.github.io/Decision-Tree-in-Python-for-Continuous-Attributes/)
++ [Earthquake Detection in Tweets using Apache Storm, November 2014](https://github.com/danwangkoala/Earthquake-detection-in-Tweets)
+	+ Report "earthquake happened" when relevant tweets ration reach a threshold. 
+	+ Design a topology with one spout and two bolts. Implement a SVM based bolt to classifier the split tweets from the split bolt.
+	+ **Skills**: Machine learning, Apache Storm, Java
 
-+ [Bayes Net Structure Prediction of a dataset](http://deerishi.github.io/Bayes-Net-Structure-Prediction/)
++ [Emergency Response Task Automated Planning, Research Assistant, September 2012 to June 2015](https://github.com/danwangkoala/HTN-planning-for-emergency-response)
+	+ Build a comprehensive emergency collaborate response network with multiple hierarchical organizations using snow-ball process.
+	+ Proposed network analysing method to obtain key tasks & relations and shared resources of many departments.
+	+ Proposed a faster algorithm for emergency response plan generating with time & resource constraints.
+	+ **Skills**: Java, C++, LISP, MySQL, MATLAB, Hierarchical Task Network Planning. 
 
-+ [Sudoku as graph coloring and constraint satisfaction problem (C++)](http://deerishi.github.io/sudoku-as-graph-coloring-and-constraint-satisfaction-problem/)
-
-+ [Tic tac toe using alpha beta minimax search (Python)](http://deerishi.github.io/Tic-Tac-Toe-Using-Alpha-Beta-Minimax-Search/)
-
-+ [Bernoulli document model based naive bayes sms spam classification](http://deerishi.github.io/Bernoulli-Document-Model_Based-Naive-Bayes-SMS-Spam-Classification/)
-
-+ [Mark and Sweep Garbage Collector](https://github.com/deerishi/Project_1_Mark_n_Sweep/tree/master/ggggc-cs842-2015-10-06-00307695ee70-1173644aa56c)
-
-+ [Variable Elimination for Inference in a Bayesian Network](http://deerishi.github.io/variable-elimination/) 
-
-+ [Travelling Salesman using simulated annealing C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
-
-+ [Travelling Salesman using Astar Search C++](http://deerishi.github.io/tsp-using-simulated-annealing-c-/)
-
-+ [Hidden Markov Model and the Viterbi Algorithm in Python](http://deerishi.github.io/Hidden-Markov-Model/)
-
-+ [Non Linear Kernelized Regression](http://deerishi.github.io/Non-Linear-Kernelized-Regression)
-
-+ [Logistic regression convergence analysis using Newton's Method](http://deerishi.github.io/Logistic-Regression-Convergence-Analysis/)
-
-
-Ongoing Projects
-
-+ Skip-gram and Continous Bag of words model for learning word vectors.
-
-+ Deep Networks for Named Entity Recognition.
-
-+ Language Modelling using Recurrent Networks.
-
-+ Developing Affective user grofiles for  github users. 
 
 
 
  
 ### Contact me
 
-[drishi@uwaterloo.ca](mailto:email@domain.com)
+[d97wang@uwaterloo.ca](d97wang@uwaterloo.ca)
